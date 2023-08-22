@@ -1,0 +1,17 @@
+img{
+    position: absolute;
+    height: 80%;
+    width: 50%;
+    left: 5%;
+    top: 3%;
+    border-radius: 5px 5px 5px 5px ;
+  box-shadow: 10px 5px 3px black;
+    
+}
+p{
+    position: absolute;
+    left: 60%;
+    top: 3%;
+    width: 40%;
+    height: 100%;
+}
